@@ -1,5 +1,6 @@
 # cinf505-data-management-analysis-platform
 Author: Kaleena Li
+
 Instructor: Professor Cheng
 
 Project Description 
