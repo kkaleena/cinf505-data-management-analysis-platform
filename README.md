@@ -13,3 +13,9 @@ Technologies:
 - Matplotlib and Seaborn (visualizations)
 - SQLAlchemy and SQLite (data storage)
 - openpycl (import and expore excel)
+
+Python files:
+- App (main file)
+- Data ops
+- Db
+- Charts
